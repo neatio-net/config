@@ -1,1 +1,1 @@
-## Library for Neatio v3
+# Config Go Library
